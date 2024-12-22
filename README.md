@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 42px; color: #F4F4F9; font-family: 'Arial', sans-serif; font-weight: bold; text-transform: uppercase;">Hi 👋, I'm Mustafa Riaz</h1>
 
 
-<h3 align="center" style="color: #E91E63; font-family: 'Helvetica', sans-serif; font-weight: bold;">A Passionate Desktop Application Developer</h3>
+<h3 align="center" style="color: #E91E63; font-family: 'Helvetica', sans-serif; font-weight: bold;">A Passionate Full Stack Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mustafariaz&label=Profile%20views&color=F44336&style=flat" alt="mustafariaz" />
