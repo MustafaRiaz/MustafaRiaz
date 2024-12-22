@@ -1,5 +1,6 @@
 <h1 align="center" style="font-size: 42px; color: #F4F4F9; font-family: 'Arial', sans-serif; font-weight: bold; text-transform: uppercase;">Hi 👋, I'm Mustafa Riaz</h1>
 
+
 <h3 align="center" style="color: #E91E63; font-family: 'Helvetica', sans-serif; font-weight: bold;">A Passionate Desktop Application Developer</h3>
 
 <p align="left"> 
@@ -32,7 +33,36 @@
   </a>
 </p>
 
-<h3 align="left" style="margin-top: 30px; color: #F4F4F9;">Languages and Tools:</h3>
+<h3 align="left" style="margin-top: 30px; color: #F4F4F9;">My Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/C%23-2396F3?style=flat&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+<!-- New Section: Contribution Graph -->
+<h3 align="left" style="color: #F4F4F9;">Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mustafariaz&theme=github" alt="Mustafa's Contribution Graph" />
+</p>
+
+<!-- New Section: Pinned Repositories -->
+<h3 align="left" style="color: #F4F4F9;">Pinned Repositories:</h3>
+<p align="left">
+  <a href="https://github.com/your-repository-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafariaz&repo=your-repository" alt="repo-name" />
+  </a>
+</p>
+
+<!-- New Section: Quote -->
+<h3 align="center" style="color: #9E9E9E; font-size: 18px; font-style: italic; margin-top: 30px;">
+  "The only way to do great work is to love what you do." – Steve Jobs
+</h3>
+
+<h3 align="left" style="color: #F4F4F9;">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -94,11 +124,15 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+  </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
   </a>
 </p>
 
+<!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafariaz&show_icons=true&locale=en&layout=compact" alt="mustafariaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafariaz&show_icons=true&locale=en" alt="mustafariaz" /></p>
