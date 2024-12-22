@@ -41,13 +41,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/C%23-2396F3?style=flat&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<!-- New Section: Contribution Graph -->
-<h3 align="left" style="color: #F4F4F9;">Contribution Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mustafariaz&theme=github" alt="Mustafa's Contribution Graph" />
-</p>
+
 
 <!-- New Section: Pinned Repositories -->
 <h3 align="left" style="color: #F4F4F9;">Pinned Repositories:</h3>
@@ -123,9 +120,6 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
