@@ -45,15 +45,6 @@
 </p>
 
 
-
-<!-- New Section: Pinned Repositories -->
-<h3 align="left" style="color: #F4F4F9;">Pinned Repositories:</h3>
-<p align="left">
-  <a href="https://github.com/your-repository-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mustafariaz&repo=your-repository" alt="repo-name" />
-  </a>
-</p>
-
 <!-- New Section: Quote -->
 <h3 align="center" style="color: #9E9E9E; font-size: 18px; font-style: italic; margin-top: 30px;">
   "The only way to do great work is to love what you do." – Steve Jobs
