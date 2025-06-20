@@ -117,7 +117,4 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafariaz&show_icons=true&locale=en&layout=compact" alt="mustafariaz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafariaz&show_icons=true&locale=en" alt="mustafariaz" /></p>
